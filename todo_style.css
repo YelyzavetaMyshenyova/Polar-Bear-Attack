@@ -62,20 +62,24 @@ color: #598DDC;
 }
 
 ul{
-      float: left;
-  display: block;
+      width: fit-content;
+    padding-bottom: 2.8%;
+    padding-top: 2.8%;
+    background-color: white;
+    margin-left: 25.5%;
+
     list-style: none;
-color: #598DDC;
-  font-size:110%;
+  font-size:100%;
 }
 
 li{
+  padding-bottom: 1%;
       float: left;
   display: block;
   list-style: none;
   padding: 0.39%;
   color: #598DDC;
-  font-size:125%;
+  font-size:100%;
 }
 
 
